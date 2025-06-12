@@ -1,0 +1,15 @@
+﻿Tipo de Controle	Prefixo	Exemplo
+
+Button (Botão)				btn ou bt			btnSalvar, btCancelar
+Label						lbl					lblNome
+TextBox (Caixa de texto)	txt					txtNome, txtEmail
+ComboBox					cmb ou cb			cmbEstados, cbGenero
+CheckBox					chk					chkAtivo
+RadioButton					rb					rbMasculino
+DataGridView				dgv					dgvFeriados, dgvClientes
+ListBox						lst					lstItens
+PictureBox					pic					picFoto
+DateTimePicker				dtp					dtpNascimento
+Panel						pnl					pnlTopo
+GroupBox					grp					grpEndereco
+TabControl					tab					tabPaginas
